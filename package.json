@@ -1,12 +1,9 @@
 {
-  "homepage": "https://Gauravvgithub.github.io/ecommerce_frontend_react",
-  "name": "frontend",
+  "name": "ecommerce-frontend-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
